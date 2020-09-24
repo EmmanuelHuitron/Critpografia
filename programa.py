@@ -16,3 +16,5 @@ if cadena!=total:
 	res = float(suma)
 	print(res)
 
+#!/bin/sh
+python3 program.py
