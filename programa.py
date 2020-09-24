@@ -1,6 +1,4 @@
 import fileinput
-
-
 suma = 0
 for i in fileinput.input(): 
 	num = float (i)
